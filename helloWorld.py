@@ -1,0 +1,1 @@
+print ("O sokratis einai o kaluteros")
